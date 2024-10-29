@@ -1,0 +1,52 @@
+{
+    "issue_date": "202406010240",
+    "start_time": "2024-06-01T03:00:00",
+    "end_time": "2024-06-02T00:00:00",
+    "current_hour": "2024-06-01T03:00:00",
+    "segment": {
+        "Segment 1": {
+            "FM": [
+                "29012KT 5SM -RA BR BKN009 OVC015"
+            ],
+            "TEMPO": [
+                "TEMPO 0515/0517 P6SM -RA SCT009 OVC015"
+            ],
+            "BECMG": [
+                "BECMG 0515/0517 30015G25KT"
+            ],
+            "PROB": []
+        },
+        "Segment 2": {
+            "FM": [
+                "FM051700 30015G25KT  5SM -RA BR BKN012 OVC025"
+            ],
+            "TEMPO": [
+                "TEMPO 0517/0520 P6SM -RA SCT012 BKN025"
+            ],
+            "BECMG": [],
+            "PROB": []
+        },
+        "Segment 3": {
+            "FM": [
+                "FM052000  30015G25KT P6SM SCT015 BKN030"
+            ],
+            "TEMPO": [
+                "TEMPO 0520/0607 P6SM -SHRA BKN015 OVC030"
+            ],
+            "BECMG": [
+                "BECMG 0603/0604 32008KT"
+            ],
+            "PROB": []
+        },
+        "Segment 4": {
+            "FM": [
+                "FM060700 30005KT  6SM BR SCT004"
+            ],
+            "TEMPO": [],
+            "BECMG": [],
+            "PROB": [
+                "PROB30 0607/0611 1SM BR OVC004"
+            ]
+        }
+    }
+}
