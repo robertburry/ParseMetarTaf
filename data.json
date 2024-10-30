@@ -1,52 +1,181 @@
 {
-    "issue_date": "202406010240",
-    "start_time": "2024-06-01T03:00:00",
+    "issue_time": "202406010240",
+    "valid_time": "2024-06-01T03:00:00",
     "end_time": "2024-06-02T00:00:00",
-    "current_hour": "2024-06-01T03:00:00",
-    "segment": {
-        "Segment 1": {
-            "FM": [
-                "29012KT 5SM -RA BR BKN009 OVC015"
-            ],
-            "TEMPO": [
-                "TEMPO 0515/0517 P6SM -RA SCT009 OVC015"
-            ],
-            "BECMG": [
-                "BECMG 0515/0517 30015G25KT"
-            ],
-            "PROB": []
-        },
-        "Segment 2": {
-            "FM": [
-                "FM051700 30015G25KT  5SM -RA BR BKN012 OVC025"
-            ],
-            "TEMPO": [
-                "TEMPO 0517/0520 P6SM -RA SCT012 BKN025"
-            ],
-            "BECMG": [],
-            "PROB": []
-        },
-        "Segment 3": {
-            "FM": [
-                "FM052000  30015G25KT P6SM SCT015 BKN030"
-            ],
-            "TEMPO": [
-                "TEMPO 0520/0607 P6SM -SHRA BKN015 OVC030"
-            ],
-            "BECMG": [
-                "BECMG 0603/0604 32008KT"
-            ],
-            "PROB": []
-        },
-        "Segment 4": {
-            "FM": [
-                "FM060700 30005KT  6SM BR SCT004"
-            ],
+    "hourly_forecast": {
+        "2024-06-01 03:00": {
+            "forecast": "23010KT P6SM FEW030 SCT060 BKN120",
             "TEMPO": [],
             "BECMG": [],
-            "PROB": [
-                "PROB30 0607/0611 1SM BR OVC004"
-            ]
+            "PROB": []
+        },
+        "2024-06-01 04:00": {
+            "forecast": "23010KT P6SM FEW030 SCT060 BKN120",
+            "TEMPO": [],
+            "BECMG": [],
+            "PROB": []
+        },
+        "2024-06-01 05:00": {
+            "forecast": "23010KT P6SM FEW030 SCT060 BKN120",
+            "TEMPO": [],
+            "BECMG": [],
+            "PROB": []
+        },
+        "2024-06-01 06:00": {
+            "forecast": "23010KT P6SM FEW030 SCT060 BKN120",
+            "TEMPO": [],
+            "BECMG": [],
+            "PROB": []
+        },
+        "2024-06-01 07:00": {
+            "forecast": "23010KT P6SM FEW030 SCT060 BKN120",
+            "TEMPO": [],
+            "BECMG": [],
+            "PROB": []
+        },
+        "2024-06-01 08:00": {
+            "forecast": "23010KT P6SM FEW030 SCT060 BKN120",
+            "TEMPO": [],
+            "BECMG": [],
+            "PROB": []
+        },
+        "2024-06-01 09:00": {
+            "forecast": "30010KT P6SM FEW030",
+            "TEMPO": [
+                "TEMPO 0109/0116 BKN030"
+            ],
+            "BECMG": [
+                "BECMG 0114/0116 30015G25KT"
+            ],
+            "PROB": []
+        },
+        "2024-06-01 10:00": {
+            "forecast": "30010KT P6SM FEW030",
+            "TEMPO": [
+                "TEMPO 0109/0116 BKN030"
+            ],
+            "BECMG": [
+                "BECMG 0114/0116 30015G25KT"
+            ],
+            "PROB": []
+        },
+        "2024-06-01 11:00": {
+            "forecast": "30010KT P6SM FEW030",
+            "TEMPO": [
+                "TEMPO 0109/0116 BKN030"
+            ],
+            "BECMG": [
+                "BECMG 0114/0116 30015G25KT"
+            ],
+            "PROB": []
+        },
+        "2024-06-01 12:00": {
+            "forecast": "30010KT P6SM FEW030",
+            "TEMPO": [
+                "TEMPO 0109/0116 BKN030"
+            ],
+            "BECMG": [
+                "BECMG 0114/0116 30015G25KT"
+            ],
+            "PROB": []
+        },
+        "2024-06-01 13:00": {
+            "forecast": "30010KT P6SM FEW030",
+            "TEMPO": [
+                "TEMPO 0109/0116 BKN030"
+            ],
+            "BECMG": [
+                "BECMG 0114/0116 30015G25KT"
+            ],
+            "PROB": []
+        },
+        "2024-06-01 14:00": {
+            "forecast": "30010KT P6SM FEW030",
+            "TEMPO": [
+                "TEMPO 0109/0116 BKN030"
+            ],
+            "BECMG": [
+                "BECMG 0114/0116 30015G25KT"
+            ],
+            "PROB": []
+        },
+        "2024-06-01 15:00": {
+            "forecast": "30010KT P6SM FEW030",
+            "TEMPO": [
+                "TEMPO 0109/0116 BKN030"
+            ],
+            "BECMG": [
+                "BECMG 0114/0116 30015G25KT"
+            ],
+            "PROB": []
+        },
+        "2024-06-01 16:00": {
+            "forecast": "30010KT P6SM FEW030",
+            "TEMPO": [
+                "TEMPO 0109/0116 BKN030"
+            ],
+            "BECMG": [
+                "BECMG 0114/0116 30015G25KT"
+            ],
+            "PROB": []
+        },
+        "2024-06-01 17:00": {
+            "forecast": "30010KT P6SM FEW030",
+            "TEMPO": [
+                "TEMPO 0109/0116 BKN030"
+            ],
+            "BECMG": [
+                "BECMG 0114/0116 30015G25KT"
+            ],
+            "PROB": []
+        },
+        "2024-06-01 18:00": {
+            "forecast": "30015G25KT P6SM SCT050",
+            "TEMPO": [],
+            "BECMG": [
+                "BECMG 0122/0124 34010KT"
+            ],
+            "PROB": []
+        },
+        "2024-06-01 19:00": {
+            "forecast": "30015G25KT P6SM SCT050",
+            "TEMPO": [],
+            "BECMG": [
+                "BECMG 0122/0124 34010KT"
+            ],
+            "PROB": []
+        },
+        "2024-06-01 20:00": {
+            "forecast": "30015G25KT P6SM SCT050",
+            "TEMPO": [],
+            "BECMG": [
+                "BECMG 0122/0124 34010KT"
+            ],
+            "PROB": []
+        },
+        "2024-06-01 21:00": {
+            "forecast": "30015G25KT P6SM SCT050",
+            "TEMPO": [],
+            "BECMG": [
+                "BECMG 0122/0124 34010KT"
+            ],
+            "PROB": []
+        },
+        "2024-06-01 22:00": {
+            "forecast": "30015G25KT P6SM SCT050",
+            "TEMPO": [],
+            "BECMG": [
+                "BECMG 0122/0124 34010KT"
+            ],
+            "PROB": []
+        },
+        "2024-06-01 23:00": {
+            "forecast": "30015G25KT P6SM SCT050",
+            "TEMPO": [],
+            "BECMG": [
+                "BECMG 0122/0124 34010KT"
+            ],
+            "PROB": []
         }
     }
 }
